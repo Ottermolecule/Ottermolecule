@@ -1,5 +1,5 @@
-### Hello! Feel free to have a nose. 👋
-### Novice coder exploring the digital frontier, ready to unlock the magic of code and create something extraordinary! 🐱
+### Hello! Feel free to have a nose. 👋 <br>
+### Novice coder exploring the digital frontier, ready to unlock the magic of code and create something extraordinary! 🐱 <br>
 
 <!--
 **Ottermolecule/Ottermolecule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
