@@ -1,4 +1,4 @@
-<h1 text-align: center> ### Hello! Feel free to have a nose. 👋 </h1><br>
+<h1 text-align: center> Hello! Feel free to have a nose. 👋 </h1><br>
 ### Novice coder exploring the digital frontier, ready to unlock the magic of code and create something extraordinary! 🐱 <br>
 
 ### <l> Languages:<br>
