@@ -3,9 +3,9 @@
 </div>
 
 ### <l> Languages:<br>
-<ul>- Java </ul>
-<ul>- Python </ul>
-  <ul>- JavaScript </ul>
+<ul>☕ Java </ul>
+<ul>🐍 Python </ul>
+  <ul>⚡️ JavaScript </ul>
   </l>
 
 <!--
