@@ -1,10 +1,13 @@
 <h1 align="center"> Hello! Feel free to have a nose. 👋 </h1><br>
 <p align="center">Novice coder exploring the digital frontier, ready to unlock the magic of code and create something extraordinary! 🐱 </p><br>
 </div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/imogen-horrocks/">LinkedIn</a>
+</div>
 
 ### <l> Languages:<br>
-<ul>☕ Java </ul>
-<ul>🐍 Python </ul>
+  <ul>☕ Java </ul>
+  <ul>🐍 Python </ul>
   <ul>⚡️ JavaScript </ul>
   </l>
 
